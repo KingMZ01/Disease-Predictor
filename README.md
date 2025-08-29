@@ -27,6 +27,9 @@ This project demonstrates end-to-end ML workflows: **data preprocessing, model t
 ---
 
 📂 Project Structure 
+
+---
+
 ▶️ Usage
 
 Open the notebook in Google Colab or Jupyter Notebook
@@ -62,7 +65,5 @@ Deploy model on Heroku / AWS / GCP
 👨‍💻 Author
 Your Name (Mohammad Zakariya)
 
-]
 🌐 GitHub: https://github.com/KingMZ01
 
-Make predictions on new data (Heart_user_template.csv)
