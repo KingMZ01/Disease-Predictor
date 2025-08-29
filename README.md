@@ -92,7 +92,9 @@ Deploy model on Heroku / AWS / GCP
 
 ---
 
-👨‍💻 Author
+<img width="25" height="25" alt="writer_1995562" src="https://github.com/user-attachments/assets/81cbca8d-7fd0-47db-a817-fc75e432c80a" />
+Author :-
+
 Mohammad Zakariya
 
 🌐 GitHub: https://github.com/KingMZ01
