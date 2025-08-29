@@ -1,5 +1,4 @@
-
-#🧠 Disease Predictor  
+# 🧠 Disease Predictor  
 
 📌 Overview  
 The **Disease Predictor** is a machine learning project designed to predict **Heart Disease** based on patient health data.  
@@ -27,6 +26,24 @@ This project demonstrates end-to-end ML workflows: **data preprocessing, model t
 ---
 
 📂 Project Structure 
+
+Disease-Predictor/
+│── notebooks/
+│ └── Optimized_Disease_Predictor_by_MZ.ipynb # Main notebook
+│── data/
+│ ├── heart_dataset.csv # Dataset
+│ ├── Heart_user_template.csv # Template for predictions
+│── README.md # Project documentation
+│── requirements.txt # List of dependencies
+
+---
+
+⚙️ Installation  
+
+Clone the repository:  
+```bash
+git clone https://github.com/KingMZ01/Disease-Predictor.git
+cd Disease-Predictor
 
 ---
 
@@ -63,7 +80,6 @@ Deploy model on Heroku / AWS / GCP
 ---
 
 👨‍💻 Author
-Your Name (Mohammad Zakariya)
-
+Mohammad Zakariya
 🌐 GitHub: https://github.com/KingMZ01
 
