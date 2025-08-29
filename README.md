@@ -26,4 +26,49 @@ This project demonstrates end-to-end ML workflows: **data preprocessing, model t
 
 ---
 
-📂 Project Structure  
+📂 Project Structure 
+▶️ Usage
+
+Open the notebook in Google Colab or Jupyter Notebook
+
+Run each cell step by step to:
+
+Load the dataset
+
+Preprocess the data
+
+Train ML models
+
+Evaluate with metrics
+
+📊 Example Workflow
+
+Load dataset
+
+Preprocess (missing values, encoding, scaling)
+
+Train ML models (Logistic Regression, Decision Tree, Random Forest)
+
+Evaluate results (confusion matrix, ROC curve, metrics)
+
+Generate predictions
+
+🔮 Future Improvements
+
+Add more ML models (XGBoost, Neural Networks)
+
+Hyperparameter tuning for better accuracy
+
+Build a Streamlit Web App for easy predictions
+
+Expand to other datasets (Diabetes, Cancer, etc.)
+
+Deploy model on Heroku / AWS / GCP
+
+👨‍💻 Author
+Your Name (MZ)
+📧 Email: [your.email@example.com
+]
+🌐 GitHub: https://github.com/KingMZ01
+
+Make predictions on new data (Heart_user_template.csv)
