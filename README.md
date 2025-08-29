@@ -74,6 +74,12 @@ Train ML models (Logistic Regression, Decision Tree, Random Forest)
 Evaluate results (confusion matrix, ROC curve, metrics)
 Generate predictions
 
+
+<img width="511" height="435" alt="image" src="https://github.com/user-attachments/assets/64f804ba-04c2-45e2-b049-eb38ea58118b" />
+
+
+<img width="648" height="435" alt="image" src="https://github.com/user-attachments/assets/072f31fc-3c57-4f75-9dec-f4e892729860" />
+
 ---
 
 🔮 Future Improvements
